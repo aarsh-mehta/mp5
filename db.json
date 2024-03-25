@@ -1,0 +1,98 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Daily groceries"
+    },
+    {
+      "id": 2,
+      "title": "Birthday preparations"
+    },
+    {
+      "id": 3,
+      "title": "Office supplies"
+    },
+    {
+      "id": 4,
+      "title": "Gardening tools"
+    },
+    {
+      "id": 5,
+      "title": "Electronics"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Washing pods",
+      "quantity": 3,
+      "price": 6.99,
+      "description": "Eco-friendly washing pods",
+      "brand": "EcoWash",
+      "weight": "1kg",
+      "category": "Household",
+      "availability": true
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Rice",
+      "quantity": 2,
+      "price": 0.99,
+      "description": "Long grain white rice",
+      "brand": "RicePure",
+      "weight": "5kg",
+      "category": "Food",
+      "availability": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Birthday Cake",
+      "quantity": 1,
+      "price": 8.99,
+      "description": "Chocolate flavored birthday cake",
+      "brand": "SweetMoments",
+      "weight": "2kg",
+      "category": "Bakery",
+      "availability": true
+    },
+    {
+      "id": 4,
+      "listId": 3,
+      "title": "Notebook",
+      "quantity": 5,
+      "price": 1.99,
+      "description": "A4 lined notebook",
+      "brand": "OfficeMax",
+      "weight": "0.5kg",
+      "category": "Office supplies",
+      "availability": true
+    },
+    {
+      "id": 5,
+      "listId": 4,
+      "title": "Garden Shovel",
+      "quantity": 1,
+      "price": 12.99,
+      "description": "Stainless steel garden shovel",
+      "brand": "GardenPro",
+      "weight": "1.5kg",
+      "category": "Gardening",
+      "availability": true
+    },
+    {
+      "id": 6,
+      "listId": 5,
+      "title": "Headphones",
+      "quantity": 1,
+      "price": 59.99,
+      "description": "Noise-cancelling headphones",
+      "brand": "SoundMax",
+      "weight": "0.3kg",
+      "category": "Electronics",
+      "availability": true
+    }
+  ]
+}
